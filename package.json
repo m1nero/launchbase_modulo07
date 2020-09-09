@@ -1,6 +1,6 @@
 {
   "name": "launchstore",
-  "version": "2.3.1",
+  "version": "2.3.3",
   "main": "server.js",
   "scripts": {
     "start": "npm-run-all -p nodemon browsersync",
